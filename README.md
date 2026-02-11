@@ -55,15 +55,14 @@ My passion lies in working with eco-friendly companies, web3, and AI, but I am o
 
 <p><a href="https://github.com/glanikali" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-161b22.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/glanikali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.reddit.com/user/Kali21x" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
  <a href="https://discordapp.com/users/230098548689993729/" target="_blank"><img alt="discord" src="https://img.shields.io/badge/Discord-5560e9?style=for-the-badge&logo=Discord&logoColor=white" /></a>		
 </p>
 
 <h2>Useful Links</h2>
 
-- 💼 <a href="https://www.glani.dev/" target="_blank">Resume/CV</a> - Curriculum vitae.
+- 💼 <a href="https://glani-dev.vercel.app" target="_blank">Resume/CV</a> - Curriculum vitae.
 
-- 🌎 <a href="https://www.glani.dev/" target="_blank">Glani.dev</a> - Personal Website.
+- 🌎 <a href="https://glani-dev.vercel.app" target="_blank">Glani.dev</a> - Personal Website.
 <!--
 **glanikali/glanikali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
