@@ -60,9 +60,9 @@ My passion lies in working with eco-friendly companies, web3, and AI, but I am o
 
 <h2>Useful Links</h2>
 
-- 💼 <a href="https://glani-dev.vercel.app" target="_blank">Resume/CV</a> - Curriculum vitae.
+- 💼 <a href="https://app-glani-dev.vercel.app/" target="_blank">Resume/CV</a> - Curriculum vitae.
 
-- 🌎 <a href="https://glani-dev.vercel.app" target="_blank">Glani.dev</a> - Personal Website.
+- 🌎 <a href="https://app-glani-dev.vercel.app/" target="_blank">Glani.dev</a> - Personal Website.
 <!--
 **glanikali/glanikali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
